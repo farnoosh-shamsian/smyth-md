@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# The vendored TEI source must keep its exact upstream bytes so the
+# SHA-256 recorded in source/PROVENANCE.md stays verifiable on any platform.
+source/smyth_eng_u.xml -text
+
+# Generated Markdown and JSON are always LF.
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf

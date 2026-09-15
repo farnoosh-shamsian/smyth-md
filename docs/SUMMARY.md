@@ -1,0 +1,197 @@
+# Contents
+
+*Herbert Weir Smyth, A Greek Grammar for Colleges* — 3048 sections in 178 files.
+
+
+## Part I: Letters, Sounds, Syllables, Accent
+
+- [The Letters](part-1-letters-sounds-syllables-accent/01-the-letters.md) — §§1–45
+- [EUPHONY OF VOWELS](part-1-letters-sounds-syllables-accent/02-euphony-of-vowels.md) — §§46–76
+- [EUPHONY OF CONSONANTS](part-1-letters-sounds-syllables-accent/03-euphony-of-consonants.md) — §§77–132
+- [FINAL CONSONANTS](part-1-letters-sounds-syllables-accent/04-final-consonants.md) — §133
+- [MOVABLE CONSONANTS](part-1-letters-sounds-syllables-accent/05-movable-consonants.md) — §§134–137
+- [SYLLABLES AND THEIR QUANTITY](part-1-letters-sounds-syllables-accent/06-syllables-and-their-quantity.md) — §§138–148
+- [ACCENT: GENERAL PRINCIPLES](part-1-letters-sounds-syllables-accent/07-accent-general-principles.md) — §§149–187
+- [MARKS OF PUNCTUATION](part-1-letters-sounds-syllables-accent/08-marks-of-punctuation.md) — §188
+
+## Part II: Inflection
+
+- [Parts of Speech](part-2-inflection/01-parts-of-speech.md) — §§189–193
+- [DECLENSION](part-2-inflection/02-declension.md) — §§194–204
+- [GENERAL RULES FOR THE ACCENT OF NOUNS](part-2-inflection/03-general-rules-for-the-accent-of-nouns.md) — §§205–210
+- [SUBSTANTIVES: FIRST DECLENSION (STEMS IN ᾱ )](part-2-inflection/04-substantives/01-first-declension-stems-in-alpha.md) — §§211–227
+- [SUBSTANTIVES: SECOND DECLENSION (STEMS IN ο )](part-2-inflection/04-substantives/02-second-declension-stems-in-omicron.md) — §§228–234
+- [SUBSTANTIVES: CONTRACTED SUBSTANTIVES](part-2-inflection/04-substantives/03-contracted-substantives.md) — §§235–236
+- [SUBSTANTIVES: ATTIC DECLENSION](part-2-inflection/04-substantives/04-attic-declension.md) — §§237–239
+- [SUBSTANTIVES: THIRD DECLENSION](part-2-inflection/04-substantives/05-third-declension.md) — §§240–280
+- [SUBSTANTIVES: IRREGULAR DECLENSION](part-2-inflection/04-substantives/06-irregular-declension.md) — §§281–285
+- [SUBSTANTIVES: ADJECTIVES](part-2-inflection/04-substantives/07-adjectives.md) — §§286–299
+- [SUBSTANTIVES: DECLENSION OF PARTICIPLES](part-2-inflection/04-substantives/08-declension-of-participles.md) — §§300–310
+- [SUBSTANTIVES: ADJECTIVES OF IRREGULAR DECLENSION](part-2-inflection/04-substantives/09-adjectives-of-irregular-declension.md) — §311
+- [SUBSTANTIVES: ADJECTIVES OF ONE ENDING](part-2-inflection/04-substantives/10-adjectives-of-one-ending.md) — §312
+- [COMPARISON OF ADJECTIVES](part-2-inflection/05-comparison-of-adjectives.md) — §§313–324
+- [PRONOUNS](part-2-inflection/06-pronouns.md) — §§325–340
+- [ADVERBS](part-2-inflection/07-adverbs.md) — §§341–346
+- [NUMERALS](part-2-inflection/08-numerals.md) — §§347–354
+- [VERBS: INFLECTION: PRELIMINARY REMARKS (355-380)](part-2-inflection/09-verbs/01-inflection-preliminary-remarks-355-380.md) — §§355–366
+- [VERBS: STEMS](part-2-inflection/09-verbs/02-stems.md) — §§367–381
+- [VERBS: Introductory](part-2-inflection/09-verbs/00-introduction.md) — §§382–422
+- [VERBS: ACCENT](part-2-inflection/09-verbs/04-accent.md) — §§423–427
+- [VERBS: AUGMENT](part-2-inflection/09-verbs/05-augment.md) — §§428–438
+- [VERBS: REDUPLICATION](part-2-inflection/09-verbs/06-reduplication.md) — §§439–454
+- [VERBS: TENSE-SUFFIXES, THEMATIC VOWEL, MOOD-SUFFIXES](part-2-inflection/09-verbs/07-tense-suffixes-thematic-vowel-mood-suffixes.md) — §§455–461
+- [VERBS: ENDINGS OF THE VERB: PERSONAL ENDINGS](part-2-inflection/09-verbs/08-endings-of-the-verb-personal-endings.md) — §§462–473
+- [VERBS: FORMATION OF THE TENSE-SYSTEMS (Ω AND MI-VERBS)](part-2-inflection/09-verbs/09-formation-of-the-tense-systems-omega-and-mi-verbs.md) — §§474–495
+- [VERB-STEM AND PRESENT STEM: Introductory](part-2-inflection/10-verb-stem-and-present-stem/00-introduction.md) — §496
+- [VERB-STEM AND PRESENT STEM: 1. PRESENT SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/02-1-present-system.md) — §§497–531
+- [VERB-STEM AND PRESENT STEM: II. FUTURE SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/03-ii-future-system.md) — §§532–541
+- [VERB-STEM AND PRESENT STEM: III. FIRST (SIGMATIC) AORIST SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/04-iii-first-sigmatic-aorist-system.md) — §§542–545
+- [VERB-STEM AND PRESENT STEM: IV. SECOND AORIST SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/05-iv-second-aorist-system.md) — §§546–554
+- [VERB-STEM AND PRESENT STEM: V. FIRST (K) PERFECT SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/06-v-first-k-perfect-system.md) — §§555–560
+- [VERB-STEM AND PRESENT STEM: VI. SECOND PERFECT SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/07-vi-second-perfect-system.md) — §§561–573
+- [VERB-STEM AND PRESENT STEM: VII. PERFECT MIDDLE SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/08-vii-perfect-middle-system.md) — §§574–584
+- [VERB-STEM AND PRESENT STEM: VIII. FIRST PASSIVE SYSTEM (ΘΗ PASSIVE)](part-2-inflection/10-verb-stem-and-present-stem/09-viii-first-passive-system-thetaeta-passive.md) — §§585–589
+- [VERB-STEM AND PRESENT STEM: IX. SECOND PASSIVE SYSTEM (H PASSIVE)](part-2-inflection/10-verb-stem-and-present-stem/10-ix-second-passive-system-h-passive.md) — §§590–598
+- [VERB-STEM AND PRESENT STEM: PERIPHRASTIC FORMS](part-2-inflection/10-verb-stem-and-present-stem/11-periphrastic-forms.md) — §§599–601
+- [VERB-STEM AND PRESENT STEM: FIRST CONJUGATION OR VERBS IN Ω](part-2-inflection/10-verb-stem-and-present-stem/12-first-conjugation-or-verbs-in-omega.md) — §§602–624
+- [VERB-STEM AND PRESENT STEM: INFLECTION OF Ω-VERBS](part-2-inflection/10-verb-stem-and-present-stem/13-inflection-of-omega-verbs.md) — §§625–716
+- [VERB-STEM AND PRESENT STEM: SECOND CONJUGATION OR VERBS IN MI](part-2-inflection/10-verb-stem-and-present-stem/14-second-conjugation-or-verbs-in-mi.md) — §§717–721
+- [VERB-STEM AND PRESENT STEM: PRESENT SYSTEM](part-2-inflection/10-verb-stem-and-present-stem/15-present-system.md) — §§722–767
+- [VERB-STEM AND PRESENT STEM: IRREGULAR MI-VERBS](part-2-inflection/10-verb-stem-and-present-stem/16-irregular-mi-verbs.md) — §§768–821
+
+## Part III: Formation of Words
+
+- [Word Formation: Introductory](part-3-formation-of-words/01-word-formation-introductory.md) — §§822–837
+- [FORMATION OF SUBSTANTIVES](part-3-formation-of-words/02-formation-of-substantives.md) — §§838–856
+- [FORMATION OF ADJECTIVES](part-3-formation-of-words/03-formation-of-adjectives.md) — §§857–858
+- [LIST OF NOUN SUFFIXES](part-3-formation-of-words/04-list-of-noun-suffixes.md) — §§859–865
+- [DENOMINATIVE VERBS](part-3-formation-of-words/05-denominative-verbs.md) — §§866–868
+- [COMPOUND WORDS](part-3-formation-of-words/06-compound-words.md) — §§869–899
+
+## Part IV: Syntax
+
+- [DEFINITIONS](part-4-syntax/01-definitions.md) — §§900–905
+- [SYNTAX OF THE SIMPLE SENTENCE](part-4-syntax/02-syntax-of-the-simple-sentence.md) — §§906–920
+- [KINDS OF SIMPLE SENTENCES](part-4-syntax/03-kinds-of-simple-sentences.md) — §921
+- [EXPANSION OF THE SIMPLE SENTENCE](part-4-syntax/04-expansion-of-the-simple-sentence.md) — §§922–924
+- [AGREEMENT: THE CONCORDS](part-4-syntax/05-agreement-the-concords.md) — §§925–926
+- [THE SUBJECT](part-4-syntax/06-the-subject.md) — §§927–928
+- [OMISSION OF THE SUBJECT](part-4-syntax/07-omission-of-the-subject.md) — §§929–937
+- [CASE OF THE SUBJECT: THE NOMINATIVE](part-4-syntax/08-case-of-the-subject-the-nominative.md) — §§938–943
+- [THE PREDICATE](part-4-syntax/09-the-predicate.md) — §§944–948
+- [CONCORD OF SUBJECT AND PREDICATE](part-4-syntax/10-concord-of-subject-and-predicate.md) — §§949–995
+- [PECULIARITIES IN THE USE OF NUMBER](part-4-syntax/11-peculiarities-in-the-use-of-number.md) — §§996–1012
+- [PECULIARITIES IN THE USE OF GENDER](part-4-syntax/12-peculiarities-in-the-use-of-gender.md) — §§1013–1015
+- [PECULIARITIES IN THE USE OF PERSON](part-4-syntax/13-peculiarities-in-the-use-of-person.md) — §§1016–1017
+- [ADJECTIVES](part-4-syntax/14-adjectives.md) — §§1018–1093
+- [ADVERBS](part-4-syntax/15-adverbs.md) — §§1094–1098
+- [THE ARTICLE—ORIGIN AND DEVELOPMENT](part-4-syntax/16-the-article-origin-and-development.md) — §§1099–1189
+- [PRONOUNS](part-4-syntax/17-pronouns.md) — §§1190–1278
+- [THE CASES: Introductory](part-4-syntax/18-the-cases/00-introduction.md) — §§1279–1282
+- [THE CASES: VOCATIVE](part-4-syntax/18-the-cases/02-vocative.md) — §§1283–1288
+- [THE CASES: GENITIVE](part-4-syntax/18-the-cases/03-genitive.md) — §§1289–1338
+- [THE CASES: GENITIVE WITH VERBS](part-4-syntax/18-the-cases/04-genitive-with-verbs.md) — §§1339–1387
+- [THE CASES: FREE USES OF THE GENITIVE](part-4-syntax/18-the-cases/05-free-uses-of-the-genitive.md) — §§1388–1449
+- [THE CASES: DATIVE](part-4-syntax/18-the-cases/06-dative.md) — §§1450–1550
+- [THE CASES: ACCUSATIVE](part-4-syntax/18-the-cases/07-accusative.md) — §§1551–1635
+- [PREPOSITIONS](part-4-syntax/19-prepositions.md) — §§1636–1702
+- [THE VERB: VOICES: Introductory](part-4-syntax/20-the-verb-voices/00-introduction.md)
+- [THE VERB: VOICES: ACTIVE VOICE](part-4-syntax/20-the-verb-voices/02-active-voice.md) — §§1703–1712
+- [THE VERB: VOICES: MIDDLE VOICE](part-4-syntax/20-the-verb-voices/03-middle-voice.md) — §§1713–1734
+- [THE VERB: VOICES: PASSIVE VOICE](part-4-syntax/20-the-verb-voices/04-passive-voice.md) — §§1735–1758
+- [THE VERB: VOICES: THE MOODS](part-4-syntax/20-the-verb-voices/05-the-moods.md) — §§1759–1760
+- [THE VERB: VOICES: THE PARTICLE ἄν](part-4-syntax/20-the-verb-voices/06-the-particle-alphanu.md) — §§1761–1768
+- [THE VERB: VOICES: THE MOODS IN SIMPLE SENTENCES](part-4-syntax/20-the-verb-voices/07-the-moods-in-simple-sentences.md) — §§1769–1834
+- [THE VERB: VOICES: IMPERATIVE](part-4-syntax/20-the-verb-voices/08-imperative.md) — §§1835–1844
+- [THE VERB: VOICES: INFINITIVE AND PARTICIPLE WITH ἄν](part-4-syntax/20-the-verb-voices/09-infinitive-and-participle-with-alphanu.md) — §§1845–1849
+- [THE VERB: VOICES: THE TENSES](part-4-syntax/20-the-verb-voices/10-the-tenses.md) — §§1850–1965
+- [VERBAL NOUNS](part-4-syntax/21-verbal-nouns.md) — §§1966–2038
+- [THE PARTICIPLE](part-4-syntax/22-the-participle.md) — §§2039–2148
+- [VERBAL ADJECTIVES IN -τέος](part-4-syntax/23-verbal-adjectives-in-tauepsilonomicronsigma.md) — §§2149–2152
+- [SUMMARY OF THE FORMS OF SIMPLE SENTENCES](part-4-syntax/24-summary-of-the-forms-of-simple-sentences.md) — §§2153–2158
+- [COMPOUND AND COMPLEX SENTENCES: COÖRDINATION AND SUBORDINATION](part-4-syntax/25-compound-and-complex-sentences-coordination-and-subordinatio.md) — §§2159–2161
+- [SYNTAX OF THE COMPOUND SENTENCE](part-4-syntax/26-syntax-of-the-compound-sentence.md) — §§2162–2172
+- [SYNTAX OF THE COMPLEX SENTENCE](part-4-syntax/27-syntax-of-the-complex-sentence.md) — §§2173–2188
+- [CLASSES OF SUBORDINATE CLAUSES](part-4-syntax/28-classes-of-subordinate-clauses.md) — §§2189–2190
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): Introductory](part-4-syntax/29-adverbial-complex-sentences-2193-2487/00-introduction.md) — §§2191–2192
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): PURPOSE CLAUSES (FINAL CLAUSES)](part-4-syntax/29-adverbial-complex-sentences-2193-2487/02-purpose-clauses-final-clauses.md) — §§2193–2206
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): OBJECT CLAUSES](part-4-syntax/29-adverbial-complex-sentences-2193-2487/03-object-clauses.md) — §§2207–2239
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): CAUSAL CLAUSES](part-4-syntax/29-adverbial-complex-sentences-2193-2487/04-causal-clauses.md) — §§2240–2248
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): RESULT CLAUSES (CONSECUTIVE CLAUSES)](part-4-syntax/29-adverbial-complex-sentences-2193-2487/05-result-clauses-consecutive-clauses.md) — §§2249–2259
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): ὥστε (RARELY ὡς) WITH THE INFINITIVE](part-4-syntax/29-adverbial-complex-sentences-2193-2487/06-omegasigmatauepsilon-rarely-omegasigma-with-the-infinitive.md) — §§2260–2272
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): ὥστε (ὡς) WITH A FINITE VERB](part-4-syntax/29-adverbial-complex-sentences-2193-2487/07-omegasigmatauepsilon-omegasigma-with-a-finite-verb.md) — §§2273–2278
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): CLAUSES WITH ἐφ᾽ ᾧ AND ἐφ᾽ ᾧτε INTRODUCING A PROVISO](part-4-syntax/29-adverbial-complex-sentences-2193-2487/08-clauses-with-epsilonphi-omega-and-epsilonphi-omegatauepsilon.md) — §2279
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): CONDITIONAL CLAUSES](part-4-syntax/29-adverbial-complex-sentences-2193-2487/09-conditional-clauses.md) — §§2280–2288
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): CLASSIFICATION OF CONDITIONAL SENTENCES](part-4-syntax/29-adverbial-complex-sentences-2193-2487/10-classification-of-conditional-sentences.md) — §§2289–2368
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): CONCESSIVE CLAUSES](part-4-syntax/29-adverbial-complex-sentences-2193-2487/11-concessive-clauses.md) — §§2369–2382
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): TEMPORAL CLAUSES](part-4-syntax/29-adverbial-complex-sentences-2193-2487/12-temporal-clauses.md) — §§2383–2461
+- [ADVERBIAL COMPLEX SENTENCES (2193-2487): CLAUSES OF COMPARISON](part-4-syntax/29-adverbial-complex-sentences-2193-2487/13-clauses-of-comparison.md) — §§2462–2487
+- [ADJECTIVE CLAUSES (RELATIVE CLAUSES: 2488-2573)](part-4-syntax/30-adjective-clauses-relative-clauses-2488-2573.md) — §§2488–2573
+- [DEPENDENT SUBSTANTIVE CLAUSES (2574-2635)](part-4-syntax/31-dependent-substantive-clauses-2574-2635.md) — §§2574–2635
+- [INTERROGATIVE SENTENCES (QUESTIONS)](part-4-syntax/32-interrogative-sentences-questions.md) — §§2636–2662
+- [INDIRECT (DEPENDENT) QUESTIONS](part-4-syntax/33-indirect-dependent-questions.md) — §§2663–2680
+- [EXCLAMATORY SENTENCES](part-4-syntax/34-exclamatory-sentences.md) — §§2681–2687
+- [NEGATIVE SENTENCES](part-4-syntax/35-negative-sentences.md) — §§2688–2768
+- [PARTICLES: Introductory](part-4-syntax/36-particles/00-introduction.md) — §§2769–2774
+- [PARTICLES: ἀλλά](part-4-syntax/36-particles/02-alphalambdalambdaalpha.md) — §§2775–2786
+- [PARTICLES: ἄρα](part-4-syntax/36-particles/03-alpharhoalpha.md) — §§2787–2799
+- [PARTICLES: ἆρα](part-4-syntax/36-particles/04-alpharhoalpha.md) — §2800
+- [PARTICLES: ἀτάρ](part-4-syntax/36-particles/05-alphataualpharho.md) — §2801
+- [PARTICLES: αὖ](part-4-syntax/36-particles/06-alphaupsilon.md) — §2802
+- [PARTICLES: γάρ](part-4-syntax/36-particles/07-gammaalpharho.md) — §§2803–2820
+- [PARTICLES: γέ](part-4-syntax/36-particles/08-gammaepsilon.md) — §§2821–2829
+- [PARTICLES: γοῦν](part-4-syntax/36-particles/09-gammaomicronupsilonnu.md) — §§2830–2833
+- [PARTICLES: δέ](part-4-syntax/36-particles/10-deltaepsilon.md) — §§2834–2839
+- [PARTICLES: δή](part-4-syntax/36-particles/11-deltaeta.md) — §§2840–2847
+- [PARTICLES: δαί, δῆθεν, δήπου, δῆτα](part-4-syntax/36-particles/12-deltaalphaiota-deltaetathetaepsilonnu-deltaetapiomicronupsil.md) — §§2848–2851
+- [PARTICLES: εἴτε](part-4-syntax/36-particles/13-epsiloniotatauepsilon.md) — §§2852–2855
+- [PARTICLES: ἤ](part-4-syntax/36-particles/14-eta.md) — §§2856–2863
+- [PARTICLES: ἦ](part-4-syntax/36-particles/15-eta.md) — §§2864–2866
+- [PARTICLES: ἠδέ (AND ἰδε)](part-4-syntax/36-particles/16-etadeltaepsilon-and-iotadeltaepsilon.md) — §2867
+- [PARTICLES: καί](part-4-syntax/36-particles/17-kappaalphaiota.md) — §§2868–2891
+- [PARTICLES: καίπερ](part-4-syntax/36-particles/18-kappaalphaiotapiepsilonrho.md) — §2892
+- [PARTICLES: καίτοι&lt;*&gt;](part-4-syntax/36-particles/19-kappaalphaiotatauomicroniota.md) — §2893
+- [PARTICLES: μά](part-4-syntax/36-particles/20-mualpha.md) — §2894
+- [PARTICLES: μέν](part-4-syntax/36-particles/21-muepsilonnu.md) — §§2895–2916
+- [PARTICLES: μέντοι](part-4-syntax/36-particles/22-muepsilonnutauomicroniota.md) — §§2917–2919
+- [PARTICLES: μήν](part-4-syntax/36-particles/23-muetanu.md) — §§2920–2921
+- [PARTICLES: ναί, νή](part-4-syntax/36-particles/24-nualphaiota-nueta.md) — §§2922–2923
+- [PARTICLES: νῦν, νῡνί̄, νύ̄ν, νύν, νύ](part-4-syntax/36-particles/25-nuupsilonnu-nuupsilonnuiota-nuupsilonnu-nuupsilonnu-nuupsilo.md) — §§2924–2928
+- [PARTICLES: ὅπως](part-4-syntax/36-particles/26-omicronpiomegasigma.md) — §2929
+- [PARTICLES: οὐδέ, οὔτε (μηδέ, μήτε)](part-4-syntax/36-particles/27-omicronupsilondeltaepsilon-omicronupsilontauepsilon-muetadel.md) — §§2930–2941
+- [PARTICLES: οὔτε (μήτε)](part-4-syntax/36-particles/28-omicronupsilontauepsilon-muetatauepsilon.md) — §§2942–2950
+- [PARTICLES: οὐκοῦν, οὔκουν](part-4-syntax/36-particles/29-omicronupsilonkappaomicronupsilonnu-omicronupsilonkappaomicr.md) — §§2951–2954
+- [PARTICLES: οὖν](part-4-syntax/36-particles/30-omicronupsilonnu.md) — §§2955–2964
+- [PARTICLES: πέρ](part-4-syntax/36-particles/31-piepsilonrho.md) — §2965
+- [PARTICLES: πλήν](part-4-syntax/36-particles/32-pilambdaetanu.md) — §2966
+- [PARTICLES: τέ](part-4-syntax/36-particles/33-tauepsilon.md) — §§2967–2983
+- [PARTICLES: τοί](part-4-syntax/36-particles/34-tauomicroniota.md) — §§2984–2987
+- [PARTICLES: ὥς, ὡς](part-4-syntax/36-particles/35-omegasigma-omegasigma.md) — §§2988–3003
+- [SOME GRAMMATICAL AND RHETORICAL FIGURES](part-4-syntax/37-some-grammatical-and-rhetorical-figures.md) — §§3004–3048
+
+## Appendix: List of Verbs
+
+- [Verbs beginning with α](appendix-list-of-verbs/01-verbs-beginning-with-alpha.md)
+- [Verbs beginning with β](appendix-list-of-verbs/02-verbs-beginning-with-beta.md)
+- [Verbs beginning with γ](appendix-list-of-verbs/03-verbs-beginning-with-gamma.md)
+- [Verbs beginning with δ](appendix-list-of-verbs/04-verbs-beginning-with-delta.md)
+- [Verbs beginning with ε](appendix-list-of-verbs/05-verbs-beginning-with-epsilon.md)
+- [Verbs beginning with ζ](appendix-list-of-verbs/06-verbs-beginning-with-zeta.md)
+- [Verbs beginning with η](appendix-list-of-verbs/07-verbs-beginning-with-eta.md)
+- [Verbs beginning with θ](appendix-list-of-verbs/08-verbs-beginning-with-theta.md)
+- [Verbs beginning with ι](appendix-list-of-verbs/09-verbs-beginning-with-iota.md)
+- [Verbs beginning with κ](appendix-list-of-verbs/10-verbs-beginning-with-kappa.md)
+- [Verbs beginning with λ](appendix-list-of-verbs/11-verbs-beginning-with-lambda.md)
+- [Verbs beginning with μ](appendix-list-of-verbs/12-verbs-beginning-with-mu.md)
+- [Verbs beginning with ν](appendix-list-of-verbs/13-verbs-beginning-with-nu.md)
+- [Verbs beginning with ξ](appendix-list-of-verbs/14-verbs-beginning-with-xi.md)
+- [Verbs beginning with ο](appendix-list-of-verbs/15-verbs-beginning-with-omicron.md)
+- [Verbs beginning with π](appendix-list-of-verbs/16-verbs-beginning-with-pi.md)
+- [Verbs beginning with ρ](appendix-list-of-verbs/17-verbs-beginning-with-rho.md)
+- [Verbs beginning with σ](appendix-list-of-verbs/18-verbs-beginning-with-sigma.md)
+- [Verbs beginning with τ](appendix-list-of-verbs/19-verbs-beginning-with-tau.md)
+- [Verbs beginning with υ](appendix-list-of-verbs/20-verbs-beginning-with-upsilon.md)
+- [Verbs beginning with φ](appendix-list-of-verbs/21-verbs-beginning-with-phi.md)
+- [Verbs beginning with χ](appendix-list-of-verbs/22-verbs-beginning-with-chi.md)
+- [Verbs beginning with ψ](appendix-list-of-verbs/23-verbs-beginning-with-psi.md)
+- [Verbs beginning with ω](appendix-list-of-verbs/24-verbs-beginning-with-omega.md)

@@ -1,0 +1,7 @@
+# Alternate builds are regenerable on demand and would just duplicate docs/:
+#   python tools/convert.py --plain
+docs-plain/
+data/sections-plain.json
+
+__pycache__/
+*.pyc
